@@ -1,5 +1,7 @@
 # Gender Bias on Wikipedia
 
+This repository contains the results and presentation of my 1-week final project for my Data Analytics bootcamp at Spiced.
+
 ## Purpose
 This project provides a gender-related visual analysis of an existing dataset containing 2.29 million records of notable individuals on Wikipedia. It demonstrates the gender gap in the biographies on the platform, in terms of articles that exist about male, female and notable people identifying with "other" genders.
 
