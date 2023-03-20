@@ -10,5 +10,5 @@ You can also find some reasons why gender bias exists on Wikipedia and how this 
 ## Why Wikipedia? 
 Wikipedia consists of entirely human-generated content and can serve as one example for the existing gender bias on the internet, possibly even mirror gender bias in society to a certain extent.
 
-## Reference to the riginal Dataset
+## Reference to the original Dataset
 Laouenan, M., Bhargava, P., Eyméoud, JB. et al. A cross-verified database of notable people, 3500BC-2018AD. Sci Data 9, 290 (2022). https://doi.org/10.1038/s41597-022-01369-4
